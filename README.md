@@ -8,7 +8,6 @@
      { 
       "Linkedin" : "www.linkedin.com/in/enrique-cuevas-garcía-ab532953", 
       "WordPress": "https://titicuevas.wordpress.com/",
-      "Resume"   : "https://github.com/titicuevas",
      }
  }
  ```
