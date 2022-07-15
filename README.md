@@ -8,6 +8,7 @@
      { 
       "Linkedin" : "www.linkedin.com/in/enrique-cuevas-garcía-ab532953", 
       "WordPress": "https://titicuevas.wordpress.com/",
+      "Perfil Github": "https://titicuevas.github.io/CV/"
       
      }
  }
@@ -66,5 +67,5 @@
   <p>
   <a href="https://www.linkedin.com/in/enrique-cuevas-garc%C3%ADa-ab532953/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&  logoColor=white"></a>
   <a href="https://titicuevas.wordpress.com/"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-   <a href="[titicuevas.github.io/cv/(https://titicuevas.github.io/CV/)"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white(https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)"></a>
+   
   </p>
