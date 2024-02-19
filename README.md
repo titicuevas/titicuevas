@@ -3,10 +3,10 @@
 
 ```shell
  { “name” : “Enrique Cuevas Garcia”,
-   “role” : “Estudiante de Desarrollo Web”,
+   “role” : “Web Developer”,
    “Redes de contacto” : 
      { 
-      "Linkedin" : "www.linkedin.com/in/enrique-cuevas-garcía-ab532953", 
+      "Linkedin" : "linkedin.com/in/enriquecuegar", 
       "WordPress": "https://titicuevas.wordpress.com/",
       "Perfil Github": "https://titicuevas.github.io/CV/"
       
@@ -65,7 +65,7 @@
   
   <h2>Redes Sociales</h2>
   <p>
-  <a href="https://www.linkedin.com/in/enrique-cuevas-garc%C3%ADa-ab532953/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&  logoColor=white"></a>
+  <a href="linkedin.com/in/enriquecuegar"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&  logoColor=white"></a>
   <a href="https://titicuevas.wordpress.com/"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
    
   </p>
