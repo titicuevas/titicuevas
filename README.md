@@ -67,6 +67,6 @@
   <h2>Redes Sociales</h2>
   <p>
   <a href="https://www.linkedin.com/in/enriquecuegar/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://titicuevas.wordpress.com/"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="https://prismatic-clafoutis-696b17.netlify.app"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
    
   </p>
