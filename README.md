@@ -7,8 +7,7 @@
    “Redes de contacto” : 
      { 
       "Linkedin" : "linkedin.com/in/enriquecuegar", 
-      "WordPress": "https://titicuevas.wordpress.com/",
-      "Perfil Github": "https://titicuevas.github.io/CV/"
+      "WordPress": "https://titicuevas.wordpress.com/"
       "Portfolio Astro":"https://prismatic-clafoutis-696b17.netlify.app"
       
      }
